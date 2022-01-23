@@ -1,0 +1,8 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "solidity.compileUsingRemoteVersion": "v0.8.0+commit.c7dfd78e",
+    "solidity.compileUsingLocalVersion": "/home/ufedojo/dev/blockchain/dapps/detangled/soljson-v0.8.0+commit.c7dfd78e.js",
+    "files.exclude": {
+        "**/node_modules": true
+    }
+}

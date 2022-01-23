@@ -1,0 +1,7 @@
+{
+    "projectName": "Detangled",
+    "namespace": "Detangled.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "./"
+}
